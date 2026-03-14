@@ -1,0 +1,6 @@
+choix alpha et beta : 
+
+en 0.01 0.02 
+
+alpha = 3.0
+beta = 0.85
