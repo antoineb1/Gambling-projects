@@ -1,6 +1,20 @@
+Pour 0.01 et 0.02
+
 choix alpha et beta : 
 
 en 0.01 0.02 
 
-alpha = 3.0
-beta = 0.85
+alpha = 8
+beta  = 0.40
+
+choix tightness est fonction pot bb :
+
+joueurs nuls :
+
+gamma = 0.0018
+vega = 0.4
+
+joueurs bon :
+
+gamma = 0.0032
+vega = 0.8 
