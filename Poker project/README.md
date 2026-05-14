@@ -1,0 +1,3 @@
+Real-time poker solver assistant designed to capture game-state data, process the current table situation, and compute the expected value of different possible betting actions.
+
+The project aims to analyze poker decisions quantitatively by estimating hand equity, pot odds, opponent ranges, and expected gain or loss depending on the available actions such as check, call, bet, raise, or fold. The system uses probability modeling, Monte Carlo simulations, and expected earnings calculations to compare possible bet sizes and identify the most profitable decision under the given assumptions.
